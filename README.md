@@ -10,7 +10,7 @@
     <img align="center" alt="HtmlLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
 
-  </div> <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/ZvaDuikszXGO3yhL5L">
+  </div> <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/783089764323688515/783089764924391448/982715584523436072">
 </div>
     
   ## 

@@ -9,9 +9,9 @@
   <div>
     <img align="center" alt="HtmlLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
-    <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" 
-     src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" width="480"></iframe></div> 
-  </div>
+
+  </div> <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/ZvaDuikszXGO3yhL5L">
+</div>
     
   ## 
   

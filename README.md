@@ -1,4 +1,8 @@
-👋 Ilson Warmling 
+</div>
+  Hi there 👋 I'm Ilson Warmling 👨‍💻
+  
+  </div>
+  
 ##
 
 <div align="center">
@@ -9,13 +13,16 @@
   <div>
     <img align="center" alt="HtmlLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
-
-![5eeea355389655 59822ff824b72](https://user-images.githubusercontent.com/77305928/172021336-52d60f97-35af-48f3-b16b-9ef7e7f83257.gif)
-</div>
     
+</div>
+    </div>
+    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
+      
   ## 
-  
-  <div>
+ <div>
   <a href="https://instagram.com/ilsonwar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>

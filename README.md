@@ -1,20 +1,24 @@
 <div align="center" height="30" width="40">
    
+   
   ## Hi there 👋 I'm Ilson Warmling 👨‍💻  
    Eternal technology learner, novice programmer with a thirst for knowledge
    
    </div>
    
-   🔧Technologies and tools that I work with:
-     <div style="display: inline_block"><br>
-      <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/ilsonwar" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+   #### 🔧Technologies and tools that I work with:
+   
+<div style="display: inline_block"><br>
+         
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=Mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 </div>
   
   ##
@@ -31,12 +35,13 @@
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
   
 </div>
-    <div>
+    
 
   
   ## 
   
- <div  align="center">
+  #### Social Links: 
+ <div  align= "center">
   <a href="https://instagram.com/ilsonwar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>

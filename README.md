@@ -10,14 +10,14 @@
    
 <div style="display: inline_block"><br>
          
-<a href="https://github.com/ilsonwar" target="_blank">![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=Mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<a href="https://spring.io" target="_blank">![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+<a href="https://github.com/ilsonwar" target="_blank">![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<a href="https://github.com/ilsonwar" target="_blank">![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<a href="https://pt-br.reactjs.org" target="_blank">![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<a href="https://www.mysql.com" target="_blank">![Mysql](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=Mysql)&nbsp;
+<a href="https://git-scm.com" target="_blank">![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<a href="https://github.com" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<a href="https://code.visualstudio.com" target="_blank">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
   

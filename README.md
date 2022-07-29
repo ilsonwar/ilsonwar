@@ -2,8 +2,7 @@
    
    
   ## Hi dev´s 👋 I'm Ilson Warmling 👨‍💻  
-   Eternal technology learner, novice programmer with a thirst for knowledge
-   
+   Eternal technology learner, novice programmer with a thirst for knowledge  
    😀 Visitas 😀
    <br><br>
    <img alingn="center" src="https://profile-counter.glitch.me/ilsonwar/count.svg"/>

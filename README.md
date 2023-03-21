@@ -1,19 +1,14 @@
-<div align="center" height="30" width="40">
-   
+<div align="center" height="30" width="40"> 
    
   ## Hi dev´s 👋 I'm Ilson Warmling 👨‍💻  
-   Eternal technology learner, novice programmer with a thirst for knowledge  
-   😀 Visitas 😀
-   <br><br>
-   <img alingn="center" src="https://profile-counter.glitch.me/ilsonwar/count.svg"/>
-   
+   Eternal technology learner, novice programmer with a thirst for knowledge    
    </div>
    
    
 <div style="display: inline_block"><br>
          
 
- ********************
+
 </div>
 
 
@@ -24,7 +19,7 @@
   </div>
 
 <div align="center">
-  <h3 align="center">:hammer_and_wrench: Linguagens e Ferramentas :hammer_and_wrench:</h3>
+  <h3 align="center">:hammer_and_wrench: Language and tools :hammer_and_wrench:</h3>
 </div>
     
 <p align="center">
@@ -60,7 +55,7 @@
    ********************
    
   <div align="center">
-  <h3 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Conecte-se comigo<img          align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+  <h3 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Connect with me<img          align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 </div>
 
  <div  align= "center">
@@ -69,6 +64,7 @@
     </a>
   <a href = "mailto:ilsonwarsc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ilson-warmling-8498a0208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
     
 

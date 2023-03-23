@@ -37,9 +37,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Spring_Boot-440070?style=flat&logo=spring-boot">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Postman-440070?style=flat&logo=Postman&logoColor=fc6701">
+    <img src="https://img.shields.io/badge/Postman-440070?style=flat&logo=Postman&logoColor=fc6701">  <br> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Figma-440070?style=flat&logo=figma&logoColor=white">  <br> <br>
+    <img src="https://img.shields.io/badge/Figma-440070?style=flat&logo=figma&logoColor=white">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-440070?style=flat&logo=postgresql&logoColor=%2361DAFB">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-440070?style=flat&logo=mysql&logoColor=%2361DAFB"> 
